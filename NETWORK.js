@@ -1,5 +1,5 @@
 {
   "maintenance": false,
-  "latestVersion": 1.1,
+  "latestVersion": 1,
   "minimumSupportedVersion": 1
 }
